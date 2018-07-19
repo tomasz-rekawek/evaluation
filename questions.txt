@@ -1,0 +1,7 @@
+1. What is a promise?
+2. What happens when you type adress in your browser and press enter
+3. What is ES5/ES6
+4. What is the difference between == and ===?
+5. Why is it, in general, a good idea to leave the global scope of a website as-is and never touch it?
+6. What are the differences between variables created using let, var or const?
+7. How can you share code between files?

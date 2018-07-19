@@ -1,0 +1,7 @@
+Create an application that utilises StarWars API 
+https://swapi.co/ 
+
+That 
+1. List all of the characters from star wars
+2. When you click on a characer it shows you a 
+list of names of movies they appear in.
